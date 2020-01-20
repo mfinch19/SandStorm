@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DD09D8E5229CBF7200999186 /* Background.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD09D8E4229CBF7200999186 /* Background.swift */; };
-		DD65D75E23D52CC6006BABFB /* ReadMe.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = DD65D75D23D52CC6006BABFB /* ReadMe.rtfd */; };
+		DD65D76023D52E07006BABFB /* ReadMe.png in Resources */ = {isa = PBXBuildFile; fileRef = DD65D75F23D52E07006BABFB /* ReadMe.png */; };
 		DD731E9622D8C1C900ECD20B /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD731E9522D8C1C900ECD20B /* Map.swift */; };
 		DDF4BC8122377D6B00E3B3C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF4BC8022377D6B00E3B3C8 /* AppDelegate.swift */; };
 		DDF4BC8322377D6B00E3B3C8 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DDF4BC8222377D6B00E3B3C8 /* GameScene.sks */; };
@@ -22,7 +22,7 @@
 
 /* Begin PBXFileReference section */
 		DD09D8E4229CBF7200999186 /* Background.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background.swift; sourceTree = "<group>"; };
-		DD65D75D23D52CC6006BABFB /* ReadMe.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = ReadMe.rtfd; sourceTree = "<group>"; };
+		DD65D75F23D52E07006BABFB /* ReadMe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ReadMe.png; path = ../../../../../Desktop/ReadMe.png; sourceTree = "<group>"; };
 		DD731E9522D8C1C900ECD20B /* Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
 		DDF4BC7D22377D6B00E3B3C8 /* SandStorm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SandStorm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDF4BC8022377D6B00E3B3C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 				DDF4BC9222377D6D00E3B3C8 /* Info.plist */,
 				DDF4BC9822377F4800E3B3C8 /* GameManager.swift */,
 				DDF4BC8622377D6B00E3B3C8 /* GameScene.swift */,
-				DD65D75D23D52CC6006BABFB /* ReadMe.rtfd */,
+				DD65D75F23D52E07006BABFB /* ReadMe.png */,
 			);
 			path = SandStorm;
 			sourceTree = "<group>";
@@ -143,7 +143,7 @@
 				DDF4BC8C22377D6B00E3B3C8 /* Main.storyboard in Resources */,
 				DDF4BC8322377D6B00E3B3C8 /* GameScene.sks in Resources */,
 				DDF4BC8E22377D6D00E3B3C8 /* Assets.xcassets in Resources */,
-				DD65D75E23D52CC6006BABFB /* ReadMe.rtfd in Resources */,
+				DD65D76023D52E07006BABFB /* ReadMe.png in Resources */,
 				DDF4BC9122377D6D00E3B3C8 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
